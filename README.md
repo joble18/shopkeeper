@@ -1,7 +1,7 @@
     ///////////////////////////////////////
-   ///				       ///
+   ///				                   ///
   ///	SHOPKEEPER, THE BILLING APP   ///	
- ///				     ///
+ ///				                 ///
 ///////////////////////////////////////
 
 1. Before installing Shopkeeper, install XAMPP for windows first.

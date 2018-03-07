@@ -1,0 +1,16 @@
+{
+  "inventory": [
+    {
+      "product_id": "1001",
+      "product": "Alfreds Futterkiste",
+      "size": "Berlin",
+      "price": 100
+    },
+    {
+      "product_id": "1002",
+      "product": "Ana Trujillo Emparedados y helados",
+      "size": "México D.F.",
+      "price": 250
+    }
+  ]
+}
